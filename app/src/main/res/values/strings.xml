@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <!-- APP Name-->
+    <string name="app_name">Simple Pokedex</string>
+
+    <!-- Pokemon Name-->
+    <string name="poke_001">#001 Bisasam</string>
+    <string name="poke_002">#002 Bisaknosp</string>
+    <string name="poke_003">#003 Bisaflor</string>
+    <string name="poke_004">#004 Glumanda</string>
+    <string name="poke_005">#005 Glutexo</string>
+    <string name="poke_006">#006 Glurak</string>
+    <string name="poke_007">##007 Schiggy</string>
+    <string name="poke_008">#008 Schillok</string>
+    <string name="poke_009">#009 Turtok</string>
+
+
+    <!-- Pokemon Beschreibung-->
+    <string name="pokeText_001">Bisasam macht gern einmal ein Nickerchen im Sonnenschein. Auf seinem Rücken trägt es einen Samen. Indem es Sonnenstrahlen aufsaugt, wird der Samen zunehmend größer.</string>
+    <string name="pokeText_002">Bisaknosp hat eine Knospe auf seinem Rücken. Beine und Rumpf sind kräftig genug, um sein Gewicht zu tragen. Wenn es lange in der Sonne liegt, ist das ein Anzeichen dafür, dass die Knospe bald blüht.</string>
+    <string name="pokeText_003">Bisaflor hat eine Blume auf seinem Rücken. Wenn sie viel Nahrung und Sonne aufnimmt, verfärbt sie sich bunt. Der Duft der Blume mildert die Emotionen der Menschen.</string>
+    <string name="pokeText_004">Die Flamme auf seiner Schweifspitze zeigt seine Gefühlslage an. Sie flackert, wenn Glumanda zufrieden ist. Wenn dieses Pokémon wütend wird, lodert die Flamme gewaltig.</string>
+    <string name="pokeText_005">Gnadenlos besiegt Glutexo seine Gegner mit seinen scharfen Klauen. Wenn es auf starke Gegner trifft, wird es wütend und die Flamme auf seiner Schweifspitze flackert in einem bläulichen Ton.</string>
+    <string name="pokeText_006">Glurak fliegt durch die Lüfte, um starke Gegner aufzuspüren. Sein heißer Feueratem bringt alles zum Schmelzen. Aber es richtet seinen Feueratem nie auf schwächere Gegner.</string>
+    <string name="pokeText_007">Schiggys Panzer dient nicht nur zum Schutz. Die runde Form und die Furchen auf der Oberfläche verringern den Widerstand im Wasser, sodass dieses Pokémon sehr schnell schwimmen kann.</string>
+    <string name="pokeText_008">Schillok hat einen langen, buschigen Schweif, dessen Farbe intensiver wird, wenn es altert. Die Kratzer auf seinem Panzer zeugen von seiner Kampfkraft.</string>
+    <string name="pokeText_009">Turtok besitzt Wasserdüsen, die aus seinem Panzer herausragen. Diese sind sehr präzise. Es kann Wassergeschosse so genau verschießen, dass es damit aus fast 50 m leere Dosen trifft.</string>
 </resources>
