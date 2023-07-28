@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="pokeRed">#ff4500</color>
+    <color name="pokeorange">#80FF4500</color>
 </resources>
